@@ -20,7 +20,7 @@ Data processing mainly uses Jupyter Notebook (Python versions 3.6-3.9 can be use
 
 The submitted code involves three main parts, each with corresponding jupyter notebook and R codes for data processing and drawing:
 
-- MRI preprocessing, feature extraction and feature cleaning【0~3】
+- MRI preprocessing, feature extraction and feature cleaning【0~2】
 - machine learning model construction and validation【4~7】
 - GSVA、cibersort、estimate【8~9】
 
