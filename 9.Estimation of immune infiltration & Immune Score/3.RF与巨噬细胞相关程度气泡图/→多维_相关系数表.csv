@@ -1,0 +1,461 @@
+,ImmuneCell,RFs,R,pvalue
+0,Macrophages M0,log.sigma.5.mm.3D_glcm_Idn,0.042418225227476555,0.5017973402533952
+1,Macrophages M0,squareroot_firstorder_Median,-0.08561332205358524,0.17461810462248803
+2,Macrophages M0,lbp.3D.k_glrlm_ShortRunEmphasis,-0.062157443077196915,0.3247560824678911
+3,Macrophages M0,wavelet.LLH_glszm_GrayLevelNonUniformity,-0.15903016774400394,0.011304424835789183
+4,Macrophages M0,log.sigma.5.mm.3D_firstorder_90Percentile,0.027737475781586217,0.6605953907521985
+5,Macrophages M0,wavelet.LHH_ngtdm_Contrast,0.032004075676048085,0.6123899137472921
+6,Macrophages M0,square_glrlm_RunEntropy,-0.20706315192319336,0.0009223115924673567
+7,Macrophages M0,wavelet.HLL_firstorder_Kurtosis,-0.07919558175770475,0.20932718355559268
+8,Macrophages M0,wavelet.HLL_glszm_SizeZoneNonUniformityNormalized,-0.13694651294055676,0.02942455787450127
+9,Macrophages M0,wavelet.LHL_glszm_ZoneEntropy,0.0938648239181622,0.1365118192900722
+10,Macrophages M0,original_shape_MinorAxisLength,-0.037674739260182395,0.5508427624480186
+11,Macrophages M0,wavelet.LLH_firstorder_Mean,0.06723517773870269,0.2867170749101843
+12,Macrophages M0,original_shape_Sphericity,-0.1399716518333185,0.02599197742016777
+13,Macrophages M0,wavelet.LLL_glcm_Idmn,-0.024422638287227776,0.6990524743623594
+14,Macrophages M0,wavelet.LHL_gldm_DependenceVariance,0.02910687507828062,0.6449577409866311
+15,Macrophages M0,wavelet.HLL_gldm_DependenceVariance,-0.08169156375537195,0.19528055519264195
+16,Macrophages M0,log.sigma.3.mm.3D_glszm_ZoneEntropy,0.0009444920950158019,0.9880731266129371
+17,Macrophages M0,log.sigma.5.mm.3D_firstorder_Median,0.062275182463769556,0.323838672649706
+18,Macrophages M0,lbp.2D_firstorder_InterquartileRange,0.07660392140052982,0.22466711833921388
+19,Macrophages M0,wavelet.LHH_gldm_DependenceNonUniformityNormalized,-0.09434634092183362,0.13450276803664374
+20,Macrophages M1,log.sigma.5.mm.3D_glcm_Idn,0.03816178805843411,0.5457009157032572
+21,Macrophages M1,squareroot_firstorder_Median,-0.08346985662400737,0.1857006207785288
+22,Macrophages M1,lbp.3D.k_glrlm_ShortRunEmphasis,-0.03408885064249235,0.5894120749543096
+23,Macrophages M1,wavelet.LLH_glszm_GrayLevelNonUniformity,-0.043289725643815925,0.4930430316660884
+24,Macrophages M1,log.sigma.5.mm.3D_firstorder_90Percentile,0.07529165581752685,0.23273183513502171
+25,Macrophages M1,wavelet.LHH_ngtdm_Contrast,-0.0074652194806077805,0.9059446667010705
+26,Macrophages M1,square_glrlm_RunEntropy,-0.15841487708199403,0.011628625277054798
+27,Macrophages M1,wavelet.HLL_firstorder_Kurtosis,-0.046449820889252424,0.4619935813926082
+28,Macrophages M1,wavelet.HLL_glszm_SizeZoneNonUniformityNormalized,-0.07855450552935758,0.21304957652853662
+29,Macrophages M1,wavelet.LHL_glszm_ZoneEntropy,0.050889825132218305,0.42026233212194886
+30,Macrophages M1,original_shape_MinorAxisLength,-0.03428633487149661,0.5872561009002738
+31,Macrophages M1,wavelet.LLH_firstorder_Mean,0.07180006885455859,0.2551773654939292
+32,Macrophages M1,original_shape_Sphericity,-0.08620874460360026,0.17162846588257757
+33,Macrophages M1,wavelet.LLL_glcm_Idmn,0.005206570193988723,0.9343238444742157
+34,Macrophages M1,wavelet.LHL_gldm_DependenceVariance,-0.011198429804588628,0.8593156112054726
+35,Macrophages M1,wavelet.HLL_gldm_DependenceVariance,-0.03357433422311997,0.5950461214126601
+36,Macrophages M1,log.sigma.3.mm.3D_glszm_ZoneEntropy,0.009355786132649714,0.8822802561763574
+37,Macrophages M1,log.sigma.5.mm.3D_firstorder_Median,0.1291764987079479,0.040061616420140445
+38,Macrophages M1,lbp.2D_firstorder_InterquartileRange,-0.015644922256062652,0.8044202398704551
+39,Macrophages M1,wavelet.LHH_gldm_DependenceNonUniformityNormalized,-0.019953785426383357,0.7521208005397623
+40,Macrophages M2,log.sigma.5.mm.3D_glcm_Idn,0.16849092826674172,0.007231942869421273
+41,Macrophages M2,squareroot_firstorder_Median,-0.09702431790872665,0.12374138238433363
+42,Macrophages M2,lbp.3D.k_glrlm_ShortRunEmphasis,-0.025004919532454453,0.6922378550587004
+43,Macrophages M2,wavelet.LLH_glszm_GrayLevelNonUniformity,-0.05167410621730702,0.41312668663156976
+44,Macrophages M2,log.sigma.5.mm.3D_firstorder_90Percentile,0.122737061748094,0.051180447599286916
+45,Macrophages M2,wavelet.LHH_ngtdm_Contrast,0.0945094206804374,0.13382751992876057
+46,Macrophages M2,square_glrlm_RunEntropy,-0.027744993076941695,0.6605091367543168
+47,Macrophages M2,wavelet.HLL_firstorder_Kurtosis,-0.02778354203454053,0.6600668936460028
+48,Macrophages M2,wavelet.HLL_glszm_SizeZoneNonUniformityNormalized,-0.10152072293913998,0.10718968518679652
+49,Macrophages M2,wavelet.LHL_glszm_ZoneEntropy,0.17761962928971123,0.004599953964350639
+50,Macrophages M2,original_shape_MinorAxisLength,0.13954095862281052,0.02645862247583242
+51,Macrophages M2,wavelet.LLH_firstorder_Mean,0.14227847256546533,0.023611184250066027
+52,Macrophages M2,original_shape_Sphericity,-0.08837633965166998,0.1610662830863113
+53,Macrophages M2,wavelet.LLL_glcm_Idmn,0.055473234940792794,0.37958391246068657
+54,Macrophages M2,wavelet.LHL_gldm_DependenceVariance,0.005837138639278122,0.926391050803249
+55,Macrophages M2,wavelet.HLL_gldm_DependenceVariance,-0.04277902964345672,0.4981631336814495
+56,Macrophages M2,log.sigma.3.mm.3D_glszm_ZoneEntropy,0.154836803458675,0.013681407073242051
+57,Macrophages M2,log.sigma.5.mm.3D_firstorder_Median,0.15415654302900414,0.014105808805388557
+58,Macrophages M2,lbp.2D_firstorder_InterquartileRange,0.046090409492371,0.46546936572499004
+59,Macrophages M2,wavelet.LHH_gldm_DependenceNonUniformityNormalized,0.052144022500663426,0.4088856266326564
+60,Macrophages,log.sigma.5.mm.3D_glcm_Idn,0.172314396834824,0.005998937469218471
+61,Macrophages,squareroot_firstorder_Median,-0.1392990216000072,0.026723897419525477
+62,Macrophages,lbp.3D.k_glrlm_ShortRunEmphasis,-0.05763339976872246,0.3612767959569819
+63,Macrophages,wavelet.LLH_glszm_GrayLevelNonUniformity,-0.1296794624676134,0.039286335536438295
+64,Macrophages,log.sigma.5.mm.3D_firstorder_90Percentile,0.1317228227448283,0.036265609544297174
+65,Macrophages,wavelet.LHH_ngtdm_Contrast,0.09597169148253035,0.12788879288516491
+66,Macrophages,square_glrlm_RunEntropy,-0.15141986329600268,0.015932044085162807
+67,Macrophages,wavelet.HLL_firstorder_Kurtosis,-0.07041020168920083,0.26451535718737595
+68,Macrophages,wavelet.HLL_glszm_SizeZoneNonUniformityNormalized,-0.16757087172514723,0.007560486789289459
+69,Macrophages,wavelet.LHL_glszm_ZoneEntropy,0.20751571533376095,0.000898194422197239
+70,Macrophages,original_shape_MinorAxisLength,0.09621412129518407,0.1269242081800187
+71,Macrophages,wavelet.LLH_firstorder_Mean,0.16738839928109275,0.0076272047783645935
+72,Macrophages,original_shape_Sphericity,-0.15897294708185283,0.011334234638468405
+73,Macrophages,wavelet.LLL_glcm_Idmn,0.036687541412195865,0.5613368827195878
+74,Macrophages,wavelet.LHL_gldm_DependenceVariance,0.017491977488802782,0.7818796635192273
+75,Macrophages,wavelet.HLL_gldm_DependenceVariance,-0.08246185539188884,0.19108756362692783
+76,Macrophages,log.sigma.3.mm.3D_glszm_ZoneEntropy,0.135482290667447,0.031220678232248455
+77,Macrophages,log.sigma.5.mm.3D_firstorder_Median,0.18456040807114954,0.0032146626426075384
+78,Macrophages,lbp.2D_firstorder_InterquartileRange,0.07478485821212029,0.235900430520407
+79,Macrophages,wavelet.LHH_gldm_DependenceNonUniformityNormalized,-0.004613007297275836,0.9417970358907973
+80,B cells naive,log.sigma.5.mm.3D_glcm_Idn,-0.09484062360185092,0.1324641673176039
+81,B cells naive,squareroot_firstorder_Median,0.012355270855921396,0.8449569959867449
+82,B cells naive,lbp.3D.k_glrlm_ShortRunEmphasis,-0.1227891508982428,0.0510811321350294
+83,B cells naive,wavelet.LLH_glszm_GrayLevelNonUniformity,0.058114058385887256,0.357279394886688
+84,B cells naive,log.sigma.5.mm.3D_firstorder_90Percentile,-0.005946931411636342,0.9250105364141378
+85,B cells naive,wavelet.LHH_ngtdm_Contrast,0.10022708610560242,0.11176227054148329
+86,B cells naive,square_glrlm_RunEntropy,0.06231383076238714,0.32353789640834063
+87,B cells naive,wavelet.HLL_firstorder_Kurtosis,-0.04085746228433241,0.5176774154484413
+88,B cells naive,wavelet.HLL_glszm_SizeZoneNonUniformityNormalized,-0.0499352614896512,0.42904363273676493
+89,B cells naive,wavelet.LHL_glszm_ZoneEntropy,-0.12316251812062329,0.05037393956231852
+90,B cells naive,original_shape_MinorAxisLength,-0.031173171927373868,0.6216563525247275
+91,B cells naive,wavelet.LLH_firstorder_Mean,0.030411685959996652,0.6302013612327884
+92,B cells naive,original_shape_Sphericity,0.08265692008531732,0.19003628036335476
+93,B cells naive,wavelet.LLL_glcm_Idmn,-0.03965580311733502,0.530077526494541
+94,B cells naive,wavelet.LHL_gldm_DependenceVariance,-0.12332093771603136,0.05007635208186738
+95,B cells naive,wavelet.HLL_gldm_DependenceVariance,-0.10171324742235094,0.10652195041688019
+96,B cells naive,log.sigma.3.mm.3D_glszm_ZoneEntropy,-0.02735360459354404,0.6650058929246128
+97,B cells naive,log.sigma.5.mm.3D_firstorder_Median,-0.10549402192795743,0.09406163581159982
+98,B cells naive,lbp.2D_firstorder_InterquartileRange,0.009905571156327111,0.875417149626588
+99,B cells naive,wavelet.LHH_gldm_DependenceNonUniformityNormalized,0.13080224214019737,0.037601244072847935
+100,B cells memory,log.sigma.5.mm.3D_glcm_Idn,0.06596702797384234,0.29592464337461466
+101,B cells memory,squareroot_firstorder_Median,-0.06664453193714621,0.29098133867742376
+102,B cells memory,lbp.3D.k_glrlm_ShortRunEmphasis,-0.009992896421242424,0.8743278891013626
+103,B cells memory,wavelet.LLH_glszm_GrayLevelNonUniformity,0.06345005101798265,0.3147762842601629
+104,B cells memory,log.sigma.5.mm.3D_firstorder_90Percentile,0.00895904802511574,0.887238332437679
+105,B cells memory,wavelet.LHH_ngtdm_Contrast,-0.060651871178193116,0.3366353176510621
+106,B cells memory,square_glrlm_RunEntropy,-0.0018440365801197906,0.9767162671869438
+107,B cells memory,wavelet.HLL_firstorder_Kurtosis,-0.07374320515606277,0.24250800111673154
+108,B cells memory,wavelet.HLL_glszm_SizeZoneNonUniformityNormalized,-0.053812910315366155,0.3940332482395246
+109,B cells memory,wavelet.LHL_glszm_ZoneEntropy,0.0557650942817801,0.3770778345090071
+110,B cells memory,original_shape_MinorAxisLength,0.07310008241960055,0.2466515743024287
+111,B cells memory,wavelet.LLH_firstorder_Mean,-0.007381034079323271,0.9070005152842836
+112,B cells memory,original_shape_Sphericity,-0.0510100299948161,0.41916402271529646
+113,B cells memory,wavelet.LLL_glcm_Idmn,0.045149099793273514,0.47464064603137596
+114,B cells memory,wavelet.LHL_gldm_DependenceVariance,0.014128918121214959,0.8230432845988689
+115,B cells memory,wavelet.HLL_gldm_DependenceVariance,-0.05014082126466656,0.42714372404240375
+116,B cells memory,log.sigma.3.mm.3D_glszm_ZoneEntropy,0.09286379631252009,0.1407620252039779
+117,B cells memory,log.sigma.5.mm.3D_firstorder_Median,0.07858562982154993,0.2128677641424685
+118,B cells memory,lbp.2D_firstorder_InterquartileRange,-0.026058596408137277,0.6799694053018999
+119,B cells memory,wavelet.LHH_gldm_DependenceNonUniformityNormalized,-0.047285222759631484,0.4539705179730263
+120,Plasma cells,log.sigma.5.mm.3D_glcm_Idn,0.09663319309905481,0.1252700828721939
+121,Plasma cells,squareroot_firstorder_Median,-0.019983422645070525,0.7517646632207977
+122,Plasma cells,lbp.3D.k_glrlm_ShortRunEmphasis,0.06933776948723984,0.2718787920435015
+123,Plasma cells,wavelet.LLH_glszm_GrayLevelNonUniformity,0.06172825762883426,0.328114459784874
+124,Plasma cells,log.sigma.5.mm.3D_firstorder_90Percentile,0.120979178928208,0.0546275139496444
+125,Plasma cells,wavelet.LHH_ngtdm_Contrast,0.030482562197512268,0.6294039218286717
+126,Plasma cells,square_glrlm_RunEntropy,-0.05252235350454052,0.4054899294018373
+127,Plasma cells,wavelet.HLL_firstorder_Kurtosis,-0.10754093072088812,0.08781712843912415
+128,Plasma cells,wavelet.HLL_glszm_SizeZoneNonUniformityNormalized,-0.09429345366074929,0.13472231437199725
+129,Plasma cells,wavelet.LHL_glszm_ZoneEntropy,0.03862925814267628,0.5407881237811214
+130,Plasma cells,original_shape_MinorAxisLength,0.09377700978773039,0.13688067868613102
+131,Plasma cells,wavelet.LLH_firstorder_Mean,0.090675815403742,0.15040309339876934
+132,Plasma cells,original_shape_Sphericity,-0.09105400116168447,0.14870181805496627
+133,Plasma cells,wavelet.LLL_glcm_Idmn,0.09695233797165889,0.12402162197511703
+134,Plasma cells,wavelet.LHL_gldm_DependenceVariance,-0.1539143829068869,0.014259651449684144
+135,Plasma cells,wavelet.HLL_gldm_DependenceVariance,-0.16448011613259092,0.008763711591367513
+136,Plasma cells,log.sigma.3.mm.3D_glszm_ZoneEntropy,0.13487606669685623,0.03199124004862934
+137,Plasma cells,log.sigma.5.mm.3D_firstorder_Median,0.12175179124592767,0.053089479282001605
+138,Plasma cells,lbp.2D_firstorder_InterquartileRange,0.12264818301753024,0.051350278714556045
+139,Plasma cells,wavelet.LHH_gldm_DependenceNonUniformityNormalized,0.17173035429111055,0.006174178125336371
+140,T cells CD8,log.sigma.5.mm.3D_glcm_Idn,-0.06899560802128654,0.274257186566476
+141,T cells CD8,squareroot_firstorder_Median,-0.06935412786401118,0.27176543620378535
+142,T cells CD8,lbp.3D.k_glrlm_ShortRunEmphasis,-0.15492081287883822,0.013629780852748678
+143,T cells CD8,wavelet.LLH_glszm_GrayLevelNonUniformity,0.049838453628022576,0.42994007878272805
+144,T cells CD8,log.sigma.5.mm.3D_firstorder_90Percentile,0.011433082917588395,0.856399214673579
+145,T cells CD8,wavelet.LHH_ngtdm_Contrast,0.1468395242154329,0.01945270258308158
+146,T cells CD8,square_glrlm_RunEntropy,0.06372018825095571,0.31271623124790104
+147,T cells CD8,wavelet.HLL_firstorder_Kurtosis,-0.0801749411439044,0.20373133496327692
+148,T cells CD8,wavelet.HLL_glszm_SizeZoneNonUniformityNormalized,-0.1261429604624994,0.04501601867915034
+149,T cells CD8,wavelet.LHL_glszm_ZoneEntropy,-0.06219965764709275,0.32442695891561824
+150,T cells CD8,original_shape_MinorAxisLength,-0.04754721550647481,0.4514705645257567
+151,T cells CD8,wavelet.LLH_firstorder_Mean,0.006040998930427568,0.9238279268707021
+152,T cells CD8,original_shape_Sphericity,0.07537848807805328,0.23219196926255425
+153,T cells CD8,wavelet.LLL_glcm_Idmn,-0.041470954639120955,0.5114047200309134
+154,T cells CD8,wavelet.LHL_gldm_DependenceVariance,-0.18356840405868,0.003386168113401339
+155,T cells CD8,wavelet.HLL_gldm_DependenceVariance,-0.18849385994904197,0.0026093613600106894
+156,T cells CD8,log.sigma.3.mm.3D_glszm_ZoneEntropy,0.007683514187785214,0.903207600940352
+157,T cells CD8,log.sigma.5.mm.3D_firstorder_Median,-0.09103457408683675,0.1487888536926485
+158,T cells CD8,lbp.2D_firstorder_InterquartileRange,0.11168640159984095,0.0761896539883213
+159,T cells CD8,wavelet.LHH_gldm_DependenceNonUniformityNormalized,0.07215594864579236,0.2528234343390077
+160,T cells CD4 naive,log.sigma.5.mm.3D_glcm_Idn,-0.1056101463560151,0.09369815295214448
+161,T cells CD4 naive,squareroot_firstorder_Median,-0.06679307023067507,0.2899049728565055
+162,T cells CD4 naive,lbp.3D.k_glrlm_ShortRunEmphasis,0.11280996583917662,0.0732630270364783
+163,T cells CD4 naive,wavelet.LLH_glszm_GrayLevelNonUniformity,-0.07041113628236656,0.2645090003492542
+164,T cells CD4 naive,log.sigma.5.mm.3D_firstorder_90Percentile,0.005614122855663729,0.9291958847238472
+165,T cells CD4 naive,wavelet.LHH_ngtdm_Contrast,-0.01958174117353945,0.7565959316483792
+166,T cells CD4 naive,square_glrlm_RunEntropy,-0.16209127864133518,0.009807227627769144
+167,T cells CD4 naive,wavelet.HLL_firstorder_Kurtosis,-0.021094805608405064,0.7384482051689346
+168,T cells CD4 naive,wavelet.HLL_glszm_SizeZoneNonUniformityNormalized,0.12826916295052743,0.041492841526776625
+169,T cells CD4 naive,wavelet.LHL_glszm_ZoneEntropy,-0.03862886193892719,0.5407922782900743
+170,T cells CD4 naive,original_shape_MinorAxisLength,-0.16017890452280828,0.01072043940122576
+171,T cells CD4 naive,wavelet.LLH_firstorder_Mean,0.1239830090938381,0.048848475748075534
+172,T cells CD4 naive,original_shape_Sphericity,0.054503381813787374,0.3879845140505964
+173,T cells CD4 naive,wavelet.LLL_glcm_Idmn,-0.17737281929233895,0.00465787526724366
+174,T cells CD4 naive,wavelet.LHL_gldm_DependenceVariance,0.1740807713658916,0.005495727741639092
+175,T cells CD4 naive,wavelet.HLL_gldm_DependenceVariance,0.05691523946390626,0.3673010943429134
+176,T cells CD4 naive,log.sigma.3.mm.3D_glszm_ZoneEntropy,-0.14415180770458752,0.02181853147813011
+177,T cells CD4 naive,log.sigma.5.mm.3D_firstorder_Median,0.008502818919138903,0.8929452892115943
+178,T cells CD4 naive,lbp.2D_firstorder_InterquartileRange,0.03266229527940196,0.6050926869742775
+179,T cells CD4 naive,wavelet.LHH_gldm_DependenceNonUniformityNormalized,-0.06299847090325932,0.3182397666130884
+180,T cells CD4 memory resting,log.sigma.5.mm.3D_glcm_Idn,-0.044174544933428844,0.4842388325250832
+181,T cells CD4 memory resting,squareroot_firstorder_Median,0.0207842376219701,0.7421617432480724
+182,T cells CD4 memory resting,lbp.3D.k_glrlm_ShortRunEmphasis,-0.052810995826396916,0.4029105300394155
+183,T cells CD4 memory resting,wavelet.LLH_glszm_GrayLevelNonUniformity,-0.1266532539146402,0.04414835783756845
+184,T cells CD4 memory resting,log.sigma.5.mm.3D_firstorder_90Percentile,-0.05539454785207069,0.3802613050970274
+185,T cells CD4 memory resting,wavelet.LHH_ngtdm_Contrast,-0.031234547174142622,0.6209698133005377
+186,T cells CD4 memory resting,square_glrlm_RunEntropy,-0.027304604062789443,0.6655697207427766
+187,T cells CD4 memory resting,wavelet.HLL_firstorder_Kurtosis,0.07583491215136529,0.22936875307950758
+188,T cells CD4 memory resting,wavelet.HLL_glszm_SizeZoneNonUniformityNormalized,-0.06772713513486205,0.2831974829846894
+189,T cells CD4 memory resting,wavelet.LHL_glszm_ZoneEntropy,-0.06438232514457556,0.30770422407895
+190,T cells CD4 memory resting,original_shape_MinorAxisLength,-0.053553902120571366,0.3963167902734575
+191,T cells CD4 memory resting,wavelet.LLH_firstorder_Mean,-0.06566048261458898,0.29817955949596464
+192,T cells CD4 memory resting,original_shape_Sphericity,0.05281488268233692,0.4028758626905212
+193,T cells CD4 memory resting,wavelet.LLL_glcm_Idmn,0.03204943756191976,0.6118857785409004
+194,T cells CD4 memory resting,wavelet.LHL_gldm_DependenceVariance,0.009872333246656517,0.8758318078209963
+195,T cells CD4 memory resting,wavelet.HLL_gldm_DependenceVariance,-0.002746127543086036,0.9653319700654766
+196,T cells CD4 memory resting,log.sigma.3.mm.3D_glszm_ZoneEntropy,-0.09929320088612778,0.11515728994496141
+197,T cells CD4 memory resting,log.sigma.5.mm.3D_firstorder_Median,0.022689838683234792,0.7194731276561515
+198,T cells CD4 memory resting,lbp.2D_firstorder_InterquartileRange,-0.05505686124309134,0.38317671878593945
+199,T cells CD4 memory resting,wavelet.LHH_gldm_DependenceNonUniformityNormalized,-0.009130601291810233,0.8850938639766667
+200,T cells CD4 memory activated,log.sigma.5.mm.3D_glcm_Idn,0.08978388838290238,0.1544738158561203
+201,T cells CD4 memory activated,squareroot_firstorder_Median,-0.04093250071927472,0.5169080612376971
+202,T cells CD4 memory activated,lbp.3D.k_glrlm_ShortRunEmphasis,0.033692411744164256,0.5937509921587841
+203,T cells CD4 memory activated,wavelet.LLH_glszm_GrayLevelNonUniformity,0.036758307200060486,0.5605814399265553
+204,T cells CD4 memory activated,log.sigma.5.mm.3D_firstorder_90Percentile,0.037439673110754176,0.5533328397272695
+205,T cells CD4 memory activated,wavelet.LHH_ngtdm_Contrast,0.14952097546737023,0.017317652336138866
+206,T cells CD4 memory activated,square_glrlm_RunEntropy,-0.03453981245725938,0.5844941671877842
+207,T cells CD4 memory activated,wavelet.HLL_firstorder_Kurtosis,-0.04881434881608702,0.43948934526278843
+208,T cells CD4 memory activated,wavelet.HLL_glszm_SizeZoneNonUniformityNormalized,-0.10185038367253015,0.10604832122288652
+209,T cells CD4 memory activated,wavelet.LHL_glszm_ZoneEntropy,0.06210950579568281,0.3251300846603041
+210,T cells CD4 memory activated,original_shape_MinorAxisLength,0.08763342968991547,0.16462989878246473
+211,T cells CD4 memory activated,wavelet.LLH_firstorder_Mean,0.04741760376970024,0.4527063602505746
+212,T cells CD4 memory activated,original_shape_Sphericity,0.003234782959846807,0.9591679724032668
+213,T cells CD4 memory activated,wavelet.LLL_glcm_Idmn,0.0320812472979213,0.611532365850586
+214,T cells CD4 memory activated,wavelet.LHL_gldm_DependenceVariance,-0.06152263480739697,0.3297313652908032
+215,T cells CD4 memory activated,wavelet.HLL_gldm_DependenceVariance,-0.09150031934180118,0.1467128841950829
+216,T cells CD4 memory activated,log.sigma.3.mm.3D_glszm_ZoneEntropy,0.06797582578515701,0.2814294030153485
+217,T cells CD4 memory activated,log.sigma.5.mm.3D_firstorder_Median,0.08016114140619839,0.20380942445283604
+218,T cells CD4 memory activated,lbp.2D_firstorder_InterquartileRange,0.14934585043855533,0.017450579622063256
+219,T cells CD4 memory activated,wavelet.LHH_gldm_DependenceNonUniformityNormalized,0.13921292562009338,0.026818847683315192
+220,T cells follicular helper,log.sigma.5.mm.3D_glcm_Idn,0.08750834679461815,0.16523566132175607
+221,T cells follicular helper,squareroot_firstorder_Median,-0.11584050855589681,0.06582262528506563
+222,T cells follicular helper,lbp.3D.k_glrlm_ShortRunEmphasis,-0.04351925610777125,0.4907509823386466
+223,T cells follicular helper,wavelet.LLH_glszm_GrayLevelNonUniformity,0.02919210881028259,0.6439894771750365
+224,T cells follicular helper,log.sigma.5.mm.3D_firstorder_90Percentile,0.09006306687762672,0.15319080736312432
+225,T cells follicular helper,wavelet.LHH_ngtdm_Contrast,0.05937587711777533,0.3469178448085727
+226,T cells follicular helper,square_glrlm_RunEntropy,-0.026988028301136845,0.6692169394862877
+227,T cells follicular helper,wavelet.HLL_firstorder_Kurtosis,-0.14985007500027372,0.017070238441991233
+228,T cells follicular helper,wavelet.HLL_glszm_SizeZoneNonUniformityNormalized,-0.13246403335981902,0.03521963124735512
+229,T cells follicular helper,wavelet.LHL_glszm_ZoneEntropy,0.01802849875593668,0.7753652933444681
+230,T cells follicular helper,original_shape_MinorAxisLength,0.01996810957479721,0.7519486670427086
+231,T cells follicular helper,wavelet.LLH_firstorder_Mean,0.027196149380713092,0.6668183298318322
+232,T cells follicular helper,original_shape_Sphericity,0.0032034130073197446,0.9595636103246371
+233,T cells follicular helper,wavelet.LLL_glcm_Idmn,0.04580567487537262,0.46823319167428146
+234,T cells follicular helper,wavelet.LHL_gldm_DependenceVariance,-0.12586771712493797,0.04548992365960796
+235,T cells follicular helper,wavelet.HLL_gldm_DependenceVariance,-0.154427254860456,0.013935552764613154
+236,T cells follicular helper,log.sigma.3.mm.3D_glszm_ZoneEntropy,0.09083049593601042,0.14970548602507583
+237,T cells follicular helper,log.sigma.5.mm.3D_firstorder_Median,0.07299662686697897,0.24732270417827257
+238,T cells follicular helper,lbp.2D_firstorder_InterquartileRange,0.14452583546533887,0.021475068286505517
+239,T cells follicular helper,wavelet.LHH_gldm_DependenceNonUniformityNormalized,0.04367302431107401,0.48921867108963685
+240,T cells regulatory (Tregs),log.sigma.5.mm.3D_glcm_Idn,-0.1480570207113753,0.0184564999160807
+241,T cells regulatory (Tregs),squareroot_firstorder_Median,-0.1365255223282835,0.029931692717776282
+242,T cells regulatory (Tregs),lbp.3D.k_glrlm_ShortRunEmphasis,-0.2012326809760927,0.0012911801071498652
+243,T cells regulatory (Tregs),wavelet.LLH_glszm_GrayLevelNonUniformity,-0.07914262872758757,0.20963286824698182
+244,T cells regulatory (Tregs),log.sigma.5.mm.3D_firstorder_90Percentile,-0.09976622441719844,0.11342773232866779
+245,T cells regulatory (Tregs),wavelet.LHH_ngtdm_Contrast,0.08870818671541633,0.15949331180776283
+246,T cells regulatory (Tregs),square_glrlm_RunEntropy,-0.0569425605219648,0.367070778959292
+247,T cells regulatory (Tregs),wavelet.HLL_firstorder_Kurtosis,0.0037993227805386788,0.9520497970750222
+248,T cells regulatory (Tregs),wavelet.HLL_glszm_SizeZoneNonUniformityNormalized,-0.1328564471137271,0.03467630531857717
+249,T cells regulatory (Tregs),wavelet.LHL_glszm_ZoneEntropy,-0.18965994277005022,0.0024509696231878996
+250,T cells regulatory (Tregs),original_shape_MinorAxisLength,-0.1708613725029169,0.006443399271709125
+251,T cells regulatory (Tregs),wavelet.LLH_firstorder_Mean,-0.0353277876463798,0.5759468536525635
+252,T cells regulatory (Tregs),original_shape_Sphericity,0.08918213263370814,0.15726685152982633
+253,T cells regulatory (Tregs),wavelet.LLL_glcm_Idmn,-0.031093227919307215,0.6225510916029271
+254,T cells regulatory (Tregs),wavelet.LHL_gldm_DependenceVariance,-0.08168085192728922,0.1953393327672361
+255,T cells regulatory (Tregs),wavelet.HLL_gldm_DependenceVariance,-0.1376972930626953,0.028538376591665374
+256,T cells regulatory (Tregs),log.sigma.3.mm.3D_glszm_ZoneEntropy,-0.1877015145946189,0.0027222358160439142
+257,T cells regulatory (Tregs),log.sigma.5.mm.3D_firstorder_Median,-0.10386106484931892,0.09929291759107443
+258,T cells regulatory (Tregs),lbp.2D_firstorder_InterquartileRange,0.010063790235455951,0.8734437619122626
+259,T cells regulatory (Tregs),wavelet.LHH_gldm_DependenceNonUniformityNormalized,-0.012509400876978619,0.8430476981521026
+260,T cells gamma delta,log.sigma.5.mm.3D_glcm_Idn,0.05303460350605975,0.4009190360972695
+261,T cells gamma delta,squareroot_firstorder_Median,0.0134421231577667,0.8315134721787343
+262,T cells gamma delta,lbp.3D.k_glrlm_ShortRunEmphasis,-0.02858217191420226,0.650931559414262
+263,T cells gamma delta,wavelet.LLH_glszm_GrayLevelNonUniformity,-0.019773690793838183,0.7542860434386174
+264,T cells gamma delta,log.sigma.5.mm.3D_firstorder_90Percentile,0.03948639632778779,0.5318376476656982
+265,T cells gamma delta,wavelet.LHH_ngtdm_Contrast,-0.04778038066969975,0.4492522114284316
+266,T cells gamma delta,square_glrlm_RunEntropy,-0.08960144923469453,0.15531661714392456
+267,T cells gamma delta,wavelet.HLL_firstorder_Kurtosis,-0.010910621542900732,0.8628952515961144
+268,T cells gamma delta,wavelet.HLL_glszm_SizeZoneNonUniformityNormalized,0.005460837188022112,0.9311242433429744
+269,T cells gamma delta,wavelet.LHL_glszm_ZoneEntropy,0.09510539220111042,0.1313819936442099
+270,T cells gamma delta,original_shape_MinorAxisLength,0.05403061502699798,0.3921199946595068
+271,T cells gamma delta,wavelet.LLH_firstorder_Mean,0.03689712871822231,0.559100908368121
+272,T cells gamma delta,original_shape_Sphericity,-0.14289742647701587,0.023005323065959916
+273,T cells gamma delta,wavelet.LLL_glcm_Idmn,0.019988568108806677,0.7517028378144708
+274,T cells gamma delta,wavelet.LHL_gldm_DependenceVariance,0.09926514090971308,0.11526053236616338
+275,T cells gamma delta,wavelet.HLL_gldm_DependenceVariance,0.06312039901516531,0.3173021787397508
+276,T cells gamma delta,log.sigma.3.mm.3D_glszm_ZoneEntropy,0.05385823410501426,0.39363446708965677
+277,T cells gamma delta,log.sigma.5.mm.3D_firstorder_Median,0.0454842562523446,0.47136392096928315
+278,T cells gamma delta,lbp.2D_firstorder_InterquartileRange,-0.05306079405690476,0.4006861630022764
+279,T cells gamma delta,wavelet.LHH_gldm_DependenceNonUniformityNormalized,-0.07454432604154823,0.2374148516715129
+280,NK cells resting,log.sigma.5.mm.3D_glcm_Idn,-0.04532652898213115,0.4729044267091589
+281,NK cells resting,squareroot_firstorder_Median,-0.08093513896918811,0.19946293597428874
+282,NK cells resting,lbp.3D.k_glrlm_ShortRunEmphasis,-0.006401573307892837,0.9192963863595578
+283,NK cells resting,wavelet.LLH_glszm_GrayLevelNonUniformity,-0.05990476264557976,0.3426319748801228
+284,NK cells resting,log.sigma.5.mm.3D_firstorder_90Percentile,-0.08658197208010039,0.16977399397511714
+285,NK cells resting,wavelet.LHH_ngtdm_Contrast,0.03854483994873327,0.5416736732256103
+286,NK cells resting,square_glrlm_RunEntropy,-0.08520520736832479,0.17668947271790905
+287,NK cells resting,wavelet.HLL_firstorder_Kurtosis,0.06086817365582169,0.33491177060012195
+288,NK cells resting,wavelet.HLL_glszm_SizeZoneNonUniformityNormalized,-0.05442306175110493,0.3886852369597754
+289,NK cells resting,wavelet.LHL_glszm_ZoneEntropy,-0.059277827801930964,0.34771610699767147
+290,NK cells resting,original_shape_MinorAxisLength,-0.08344990017363416,0.18580617723969609
+291,NK cells resting,wavelet.LLH_firstorder_Mean,-0.040871060400096346,0.5175379529799811
+292,NK cells resting,original_shape_Sphericity,0.14039459129511223,0.02554063384062759
+293,NK cells resting,wavelet.LLL_glcm_Idmn,-0.016792078783491954,0.790400590497176
+294,NK cells resting,wavelet.LHL_gldm_DependenceVariance,-0.035668319162533955,0.5722712851036351
+295,NK cells resting,wavelet.HLL_gldm_DependenceVariance,-0.11509578719126308,0.06759106405775452
+296,NK cells resting,log.sigma.3.mm.3D_glszm_ZoneEntropy,-0.16276910943261402,0.009500487433308176
+297,NK cells resting,log.sigma.5.mm.3D_firstorder_Median,-0.003559579812614935,0.9550722389583396
+298,NK cells resting,lbp.2D_firstorder_InterquartileRange,-0.003923169615845206,0.9504887246186978
+299,NK cells resting,wavelet.LHH_gldm_DependenceNonUniformityNormalized,0.0118116922541236,0.8516977753383586
+300,NK cells activated,log.sigma.5.mm.3D_glcm_Idn,-0.01594985121316042,0.8006873303425102
+301,NK cells activated,squareroot_firstorder_Median,0.20759714169457352,0.0008939173712509033
+302,NK cells activated,lbp.3D.k_glrlm_ShortRunEmphasis,0.08780655882090363,0.16379419851347884
+303,NK cells activated,wavelet.LLH_glszm_GrayLevelNonUniformity,0.21089418318231634,0.0007357074430521169
+304,NK cells activated,log.sigma.5.mm.3D_firstorder_90Percentile,0.054451282712154055,0.38843894630969145
+305,NK cells activated,wavelet.LHH_ngtdm_Contrast,-0.17304703880272648,0.0057854155571662805
+306,NK cells activated,square_glrlm_RunEntropy,0.16892232454009876,0.0070823281383919304
+307,NK cells activated,wavelet.HLL_firstorder_Kurtosis,-0.03048777892901678,0.6293452445349638
+308,NK cells activated,wavelet.HLL_glszm_SizeZoneNonUniformityNormalized,0.12737890741616895,0.04293871427928608
+309,NK cells activated,wavelet.LHL_glszm_ZoneEntropy,-0.026329705206632328,0.6768261767999847
+310,NK cells activated,original_shape_MinorAxisLength,0.07652582913507398,0.22514141884391006
+311,NK cells activated,wavelet.LLH_firstorder_Mean,-0.08108377749564992,0.1986359988698853
+312,NK cells activated,original_shape_Sphericity,-0.0055719633907267046,0.9297262169287569
+313,NK cells activated,wavelet.LLL_glcm_Idmn,0.011226492627474402,0.85896672991169
+314,NK cells activated,wavelet.LHL_gldm_DependenceVariance,-0.02052353002628344,0.7452837055454062
+315,NK cells activated,wavelet.HLL_gldm_DependenceVariance,0.10305499627163389,0.1019589390233377
+316,NK cells activated,log.sigma.3.mm.3D_glszm_ZoneEntropy,0.1511548395855967,0.01611941812863383
+317,NK cells activated,log.sigma.5.mm.3D_firstorder_Median,-0.09832077754964237,0.11877755028170492
+318,NK cells activated,lbp.2D_firstorder_InterquartileRange,-0.03398889710608081,0.5905046684957204
+319,NK cells activated,wavelet.LHH_gldm_DependenceNonUniformityNormalized,-0.02193961430478125,0.7283774889559506
+320,Monocytes,log.sigma.5.mm.3D_glcm_Idn,-0.09377593496640405,0.13688519815600086
+321,Monocytes,squareroot_firstorder_Median,0.22850477737008767,0.00024714293364857073
+322,Monocytes,lbp.3D.k_glrlm_ShortRunEmphasis,0.12947009488089253,0.0396075077041421
+323,Monocytes,wavelet.LLH_glszm_GrayLevelNonUniformity,-0.014000029155475765,0.8246313320683223
+324,Monocytes,log.sigma.5.mm.3D_firstorder_90Percentile,-0.14136893183705496,0.02452643561080537
+325,Monocytes,wavelet.LHH_ngtdm_Contrast,-0.12554347028657603,0.046053555820250905
+326,Monocytes,square_glrlm_RunEntropy,0.10447755100763964,0.09729148508930202
+327,Monocytes,wavelet.HLL_firstorder_Kurtosis,0.11795189919125311,0.06101400154125471
+328,Monocytes,wavelet.HLL_glszm_SizeZoneNonUniformityNormalized,0.21325311563679672,0.0006388437693378246
+329,Monocytes,wavelet.LHL_glszm_ZoneEntropy,-0.0487210852816044,0.44036495322711067
+330,Monocytes,original_shape_MinorAxisLength,-0.03702006820111577,0.5577913363058055
+331,Monocytes,wavelet.LLH_firstorder_Mean,-0.11434395753254861,0.06941560609047916
+332,Monocytes,original_shape_Sphericity,0.08643059036493252,0.17052436286906275
+333,Monocytes,wavelet.LLL_glcm_Idmn,-0.07001298484850751,0.26722659452097997
+334,Monocytes,wavelet.LHL_gldm_DependenceVariance,0.15668633382204702,0.012583687823602922
+335,Monocytes,wavelet.HLL_gldm_DependenceVariance,0.28616799530361237,3.721569008968306e-06
+336,Monocytes,log.sigma.3.mm.3D_glszm_ZoneEntropy,-0.10914678346355784,0.08315453646535079
+337,Monocytes,log.sigma.5.mm.3D_firstorder_Median,-0.12078240164444123,0.05502508588789426
+338,Monocytes,lbp.2D_firstorder_InterquartileRange,-0.18242269583133322,0.0035945224282205967
+339,Monocytes,wavelet.LHH_gldm_DependenceNonUniformityNormalized,-0.010658509563574163,0.8660332197000656
+340,Dendritic cells resting,log.sigma.5.mm.3D_glcm_Idn,-0.10256843578176833,0.10359542054280618
+341,Dendritic cells resting,squareroot_firstorder_Median,-0.07693029273346806,0.22269255420638281
+342,Dendritic cells resting,lbp.3D.k_glrlm_ShortRunEmphasis,-0.0350106668375364,0.5793796655075368
+343,Dendritic cells resting,wavelet.LLH_glszm_GrayLevelNonUniformity,0.10390930216409867,0.09913514592674522
+344,Dendritic cells resting,log.sigma.5.mm.3D_firstorder_90Percentile,-0.008933841063650591,0.8875534967294246
+345,Dendritic cells resting,wavelet.LHH_ngtdm_Contrast,0.08920894138021293,0.15714161507536642
+346,Dendritic cells resting,square_glrlm_RunEntropy,0.07888617476352953,0.211117859666774
+347,Dendritic cells resting,wavelet.HLL_firstorder_Kurtosis,-0.01994770451946243,0.7521938785917857
+348,Dendritic cells resting,wavelet.HLL_glszm_SizeZoneNonUniformityNormalized,-0.0012738461751793492,0.9839145912497848
+349,Dendritic cells resting,wavelet.LHL_glszm_ZoneEntropy,-0.1576139144558685,0.012062926605911035
+350,Dendritic cells resting,original_shape_MinorAxisLength,-0.07342475228781929,0.2445536378016489
+351,Dendritic cells resting,wavelet.LLH_firstorder_Mean,-0.05751464566558556,0.36226869362647607
+352,Dendritic cells resting,original_shape_Sphericity,0.05132878074135569,0.4162597411896689
+353,Dendritic cells resting,wavelet.LLL_glcm_Idmn,-0.044197543509148285,0.4840111256467964
+354,Dendritic cells resting,wavelet.LHL_gldm_DependenceVariance,-0.18004539956143603,0.0040642442005097475
+355,Dendritic cells resting,wavelet.HLL_gldm_DependenceVariance,-0.15264344095283097,0.015091435221942336
+356,Dendritic cells resting,log.sigma.3.mm.3D_glszm_ZoneEntropy,-0.030015745393571294,0.6346640106544548
+357,Dendritic cells resting,log.sigma.5.mm.3D_firstorder_Median,-0.11955435739839551,0.0575607656089574
+358,Dendritic cells resting,lbp.2D_firstorder_InterquartileRange,0.09562704670905132,0.12926981393535236
+359,Dendritic cells resting,wavelet.LHH_gldm_DependenceNonUniformityNormalized,0.07986184913089946,0.20550838023101733
+360,Dendritic cells activated,log.sigma.5.mm.3D_glcm_Idn,-0.00841197605445907,0.8940823077183694
+361,Dendritic cells activated,squareroot_firstorder_Median,-0.03284858177518569,0.6030345128280953
+362,Dendritic cells activated,lbp.3D.k_glrlm_ShortRunEmphasis,-0.08390814370899048,0.18339347227641692
+363,Dendritic cells activated,wavelet.LLH_glszm_GrayLevelNonUniformity,-0.014162703121904707,0.822627136753739
+364,Dendritic cells activated,log.sigma.5.mm.3D_firstorder_90Percentile,-0.005587439835155553,0.9295315320729258
+365,Dendritic cells activated,wavelet.LHH_ngtdm_Contrast,0.029441831591966686,0.641156061652526
+366,Dendritic cells activated,square_glrlm_RunEntropy,-0.035271988371345306,0.5765501846720505
+367,Dendritic cells activated,wavelet.HLL_firstorder_Kurtosis,-0.11681545391481497,0.06356496910759529
+368,Dendritic cells activated,wavelet.HLL_glszm_SizeZoneNonUniformityNormalized,-0.09736958074187047,0.12240399479655659
+369,Dendritic cells activated,wavelet.LHL_glszm_ZoneEntropy,0.06025153612534762,0.3398402092911272
+370,Dendritic cells activated,original_shape_MinorAxisLength,0.028918753997135373,0.6470969329118647
+371,Dendritic cells activated,wavelet.LLH_firstorder_Mean,-0.03493788698619225,0.5801688472136575
+372,Dendritic cells activated,original_shape_Sphericity,0.013745409435197888,0.8277706065003148
+373,Dendritic cells activated,wavelet.LLL_glcm_Idmn,0.04727994489872384,0.45402095930266595
+374,Dendritic cells activated,wavelet.LHL_gldm_DependenceVariance,0.006938464717683684,0.9125538396639539
+375,Dendritic cells activated,wavelet.HLL_gldm_DependenceVariance,-0.07695679090567226,0.22253278250590622
+376,Dendritic cells activated,log.sigma.3.mm.3D_glszm_ZoneEntropy,0.08425176255274591,0.18159947384482342
+377,Dendritic cells activated,log.sigma.5.mm.3D_firstorder_Median,-0.04026223482893203,0.5238009623167171
+378,Dendritic cells activated,lbp.2D_firstorder_InterquartileRange,-0.004977447299148024,0.9372079466723711
+379,Dendritic cells activated,wavelet.LHH_gldm_DependenceNonUniformityNormalized,-0.035836500445446014,0.5704600951598359
+380,Mast cells resting,log.sigma.5.mm.3D_glcm_Idn,0.03464669509958469,0.5833313593259172
+381,Mast cells resting,squareroot_firstorder_Median,-0.006647266804301698,0.9162101011240815
+382,Mast cells resting,lbp.3D.k_glrlm_ShortRunEmphasis,0.0770526208240288,0.22195565348155075
+383,Mast cells resting,wavelet.LLH_glszm_GrayLevelNonUniformity,-0.10966799744270439,0.08168477957716708
+384,Mast cells resting,log.sigma.5.mm.3D_firstorder_90Percentile,0.018741442957718103,0.76673314731771
+385,Mast cells resting,wavelet.LHH_ngtdm_Contrast,-0.053769018833053205,0.3944196588069748
+386,Mast cells resting,square_glrlm_RunEntropy,-0.13691584836735818,0.029461247393291333
+387,Mast cells resting,wavelet.HLL_firstorder_Kurtosis,0.057619957564367906,0.3613889873839712
+388,Mast cells resting,wavelet.HLL_glszm_SizeZoneNonUniformityNormalized,-0.010971149076002504,0.862142200178708
+389,Mast cells resting,wavelet.LHL_glszm_ZoneEntropy,-0.008578029896149053,0.8920040898116869
+390,Mast cells resting,original_shape_MinorAxisLength,-0.07798196740004874,0.21641395307252262
+391,Mast cells resting,wavelet.LLH_firstorder_Mean,0.08060964736268719,0.20128250485227844
+392,Mast cells resting,original_shape_Sphericity,-0.005946805664183369,0.9250121174121969
+393,Mast cells resting,wavelet.LLL_glcm_Idmn,0.04234602406037181,0.502526258626825
+394,Mast cells resting,wavelet.LHL_gldm_DependenceVariance,0.09208886471604825,0.14412114481124053
+395,Mast cells resting,wavelet.HLL_gldm_DependenceVariance,-0.0009833023083646792,0.9875830768917042
+396,Mast cells resting,log.sigma.3.mm.3D_glszm_ZoneEntropy,-0.08251494227089197,0.1908010363198655
+397,Mast cells resting,log.sigma.5.mm.3D_firstorder_Median,0.11056119524376294,0.0792148447721414
+398,Mast cells resting,lbp.2D_firstorder_InterquartileRange,0.013646797293871558,0.8289871599439905
+399,Mast cells resting,wavelet.LHH_gldm_DependenceNonUniformityNormalized,-0.03544798624610815,0.5746482108499408
+400,Mast cells activated,log.sigma.5.mm.3D_glcm_Idn,-0.03135010561135758,0.619678075121008
+401,Mast cells activated,squareroot_firstorder_Median,0.05897091237284504,0.35022233771406075
+402,Mast cells activated,lbp.3D.k_glrlm_ShortRunEmphasis,0.13759180030462173,0.028661498029112283
+403,Mast cells activated,wavelet.LLH_glszm_GrayLevelNonUniformity,0.2452930886738325,8.056696783494526e-05
+404,Mast cells activated,log.sigma.5.mm.3D_firstorder_90Percentile,-0.01495585862107928,0.8128719068957202
+405,Mast cells activated,wavelet.LHH_ngtdm_Contrast,-0.11133079880632163,0.07713542213094418
+406,Mast cells activated,square_glrlm_RunEntropy,0.11198487486589724,0.0754031057365472
+407,Mast cells activated,wavelet.HLL_firstorder_Kurtosis,0.012111895871734137,0.8479736627379667
+408,Mast cells activated,wavelet.HLL_glszm_SizeZoneNonUniformityNormalized,0.2697169402656893,1.3629403181094548e-05
+409,Mast cells activated,wavelet.LHL_glszm_ZoneEntropy,-0.02774058005767847,0.6605597715174981
+410,Mast cells activated,original_shape_MinorAxisLength,0.05690287005745623,0.3674053973529612
+411,Mast cells activated,wavelet.LLH_firstorder_Mean,-0.09913957553067451,0.11572341771030513
+412,Mast cells activated,original_shape_Sphericity,-0.0538898308201239,0.3933566072987345
+413,Mast cells activated,wavelet.LLL_glcm_Idmn,-0.011279840131869882,0.8583035811291355
+414,Mast cells activated,wavelet.LHL_gldm_DependenceVariance,0.04089923387302773,0.5172490669606603
+415,Mast cells activated,wavelet.HLL_gldm_DependenceVariance,0.1465560819687025,0.01969121730338002
+416,Mast cells activated,log.sigma.3.mm.3D_glszm_ZoneEntropy,0.04170210063396653,0.5090516251378362
+417,Mast cells activated,log.sigma.5.mm.3D_firstorder_Median,-0.08899924757591363,0.15812320178571967
+418,Mast cells activated,lbp.2D_firstorder_InterquartileRange,-0.04837097827642061,0.4436608047094729
+419,Mast cells activated,wavelet.LHH_gldm_DependenceNonUniformityNormalized,-0.11070888977940956,0.07881230712752331
+420,Eosinophils,log.sigma.5.mm.3D_glcm_Idn,-0.020651788602343436,0.7437472912861278
+421,Eosinophils,squareroot_firstorder_Median,0.1042735009561581,0.09795035675087785
+422,Eosinophils,lbp.3D.k_glrlm_ShortRunEmphasis,0.16265341072332706,0.009552235103037505
+423,Eosinophils,wavelet.LLH_glszm_GrayLevelNonUniformity,0.12580721768533826,0.045594647984116575
+424,Eosinophils,log.sigma.5.mm.3D_firstorder_90Percentile,-0.0592489706180901,0.3479512668878841
+425,Eosinophils,wavelet.LHH_ngtdm_Contrast,-0.09352557757821016,0.13794103613852246
+426,Eosinophils,square_glrlm_RunEntropy,-0.0036220891845362545,0.9542841190591761
+427,Eosinophils,wavelet.HLL_firstorder_Kurtosis,0.08728591671556259,0.1663169823186175
+428,Eosinophils,wavelet.HLL_glszm_SizeZoneNonUniformityNormalized,0.21868947491335128,0.00045875684960416024
+429,Eosinophils,wavelet.LHL_glszm_ZoneEntropy,-0.0011194810606006314,0.9858636098483875
+430,Eosinophils,original_shape_MinorAxisLength,-0.03293100518396614,0.6021248634780667
+431,Eosinophils,wavelet.LLH_firstorder_Mean,-0.09277600518175201,0.14113954323276637
+432,Eosinophils,original_shape_Sphericity,-0.048022466500782256,0.44695550380541116
+433,Eosinophils,wavelet.LLL_glcm_Idmn,-0.023974689825258428,0.7043114420203305
+434,Eosinophils,wavelet.LHL_gldm_DependenceVariance,0.125655691491785,0.04585782586520755
+435,Eosinophils,wavelet.HLL_gldm_DependenceVariance,0.12108835011154044,0.05440797185456428
+436,Eosinophils,log.sigma.3.mm.3D_glszm_ZoneEntropy,-0.04366523065710614,0.4892962737456479
+437,Eosinophils,log.sigma.5.mm.3D_firstorder_Median,-0.02589010519591864,0.6819256815603434
+438,Eosinophils,lbp.2D_firstorder_InterquartileRange,-0.03179316036822673,0.6147363417774728
+439,Eosinophils,wavelet.LHH_gldm_DependenceNonUniformityNormalized,-0.06023993867416263,0.33993334182453816
+440,Neutrophils,log.sigma.5.mm.3D_glcm_Idn,0.08744529695447144,0.16554163609284217
+441,Neutrophils,squareroot_firstorder_Median,-0.1472184161146129,0.019137788710988982
+442,Neutrophils,lbp.3D.k_glrlm_ShortRunEmphasis,-0.16395883297618788,0.008982613849939093
+443,Neutrophils,wavelet.LLH_glszm_GrayLevelNonUniformity,-0.0014960956515241899,0.981108633227913
+444,Neutrophils,log.sigma.5.mm.3D_firstorder_90Percentile,0.12181577166265149,0.05296374247778455
+445,Neutrophils,wavelet.LHH_ngtdm_Contrast,0.10558125443325829,0.09378848318387882
+446,Neutrophils,square_glrlm_RunEntropy,0.10082436891511928,0.10963241296619673
+447,Neutrophils,wavelet.HLL_firstorder_Kurtosis,-0.050359945576990424,0.42512381964984514
+448,Neutrophils,wavelet.HLL_glszm_SizeZoneNonUniformityNormalized,-0.22220577249210907,0.0003687069176661218
+449,Neutrophils,wavelet.LHL_glszm_ZoneEntropy,0.017951617662782627,0.7762978212306131
+450,Neutrophils,original_shape_MinorAxisLength,0.1185379256384667,0.05973185935077911
+451,Neutrophils,wavelet.LLH_firstorder_Mean,0.10873197053854951,0.08433941215993061
+452,Neutrophils,original_shape_Sphericity,-0.012929637499694871,0.8378466717147618
+453,Neutrophils,wavelet.LLL_glcm_Idmn,0.1201946505180956,0.0562268879291134
+454,Neutrophils,wavelet.LHL_gldm_DependenceVariance,-0.1897907986214385,0.0024337521603711456
+455,Neutrophils,wavelet.HLL_gldm_DependenceVariance,-0.23352327930258313,0.0001782693183955983
+456,Neutrophils,log.sigma.3.mm.3D_glszm_ZoneEntropy,0.14639860723361817,0.019824825093485217
+457,Neutrophils,log.sigma.5.mm.3D_firstorder_Median,0.07709879403141935,0.22167795930325807
+458,Neutrophils,lbp.2D_firstorder_InterquartileRange,0.1475799466330076,0.018841444118347137
+459,Neutrophils,wavelet.LHH_gldm_DependenceNonUniformityNormalized,0.12261313067620651,0.05141738618463419

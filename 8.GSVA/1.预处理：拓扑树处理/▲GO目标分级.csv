@@ -1,0 +1,63 @@
+term_class,term_level,ID,term_name
+MF,2,GO:0016209,antioxidant activity
+MF,2,GO:0140657,ATP-dependent activity
+MF,2,GO:0038024,cargo receptor activity
+MF,2,GO:0003824,catalytic activity
+MF,2,GO:0003774,cytoskeletal motor activity
+MF,2,GO:0140522,fusogenic activity
+MF,2,GO:0140223,general transcription initiation factor activity
+MF,2,GO:0140912,membrane destabilizing activity
+MF,2,GO:0060090,molecular adaptor activity
+MF,2,GO:0140104,molecular carrier activity
+MF,2,GO:0140677,molecular function activator activity
+MF,2,GO:0140678,molecular function inhibitor activity
+MF,2,GO:0098772,molecular function regulator activity
+MF,2,GO:0140313,molecular sequestering activity
+MF,2,GO:0140489,molecular template activity
+MF,2,GO:0060089,molecular transducer activity
+MF,2,GO:0045735,nutrient reservoir activity
+MF,2,GO:0140911,pore-forming activity
+MF,2,GO:0140776,protein-containing complex destabilizing activity
+MF,2,GO:0140777,protein-containing complex stabilizing activity
+MF,2,GO:0140299,small molecule sensor activity
+MF,2,GO:0005198,structural molecule activity
+MF,2,GO:0090729,toxin activity
+MF,2,GO:0140110,transcription regulator activity
+MF,2,GO:0045182,translation regulator activity
+MF,2,GO:0005215,transporter activity
+MF,2,GO:0044868,modulation by host of viral molecular function
+MF,2,GO:0052055,modulation by symbiont of host molecular function
+MF,2,GO:0044092,negative regulation of molecular function
+MF,2,GO:0044093,positive regulation of molecular function
+MF,2,GO:0065009,regulation of molecular function
+MF,2,GO:0005488,binding
+MF,2,GO:0031386,protein tag
+MF,2,GO:0044183,protein folding chaperone
+MF,2,GO:0140691,RNA folding chaperone
+BP,2,GO:0044848,biological phase
+BP,2,GO:0044419,biological process involved in interspecies interaction between organisms
+BP,2,GO:0051703,biological process involved in intraspecies interaction between organisms
+BP,2,GO:0065007,biological regulation
+BP,2,GO:0009987,cellular process
+BP,2,GO:0098754,detoxification
+BP,2,GO:0032502,developmental process
+BP,2,GO:0040007,growth
+BP,2,GO:0042592,homeostatic process
+BP,2,GO:0002376,immune system process
+BP,2,GO:0051179,localization
+BP,2,GO:0040011,locomotion
+BP,2,GO:0008152,metabolic process
+BP,2,GO:0032501,multicellular organismal process
+BP,2,GO:0048519,negative regulation of biological process
+BP,2,GO:0043473,pigmentation
+BP,2,GO:0048518,positive regulation of biological process
+BP,2,GO:0050789,regulation of biological process
+BP,2,GO:0000003,reproduction
+BP,2,GO:0022414,reproductive process
+BP,2,GO:0050896,response to stimulus
+BP,2,GO:0048511,rhythmic process
+BP,2,GO:0023052,signaling
+BP,2,GO:0016032,viral process
+CC,2,GO:0110165,cellular anatomical entity
+CC,2,GO:0032991,protein-containing complex
+CC,2,GO:0044423,virion component
