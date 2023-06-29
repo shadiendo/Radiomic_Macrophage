@@ -26,3 +26,6 @@ The submitted code involves three main parts, each with corresponding jupyter no
 
 In addition, the R code for data overview and three line diagram drawing also provides【3】.Each part of the code provides demo data for the code running test, in which the JSPH dataset is anonymized.
 
+### Extracted features:
+
+A total of 1874 features were extracted, including 18 first-order features, 14 shape and size features, and 75 textural features. Additionally, derived features were generated through filters, which included 744 ‘wavelet’-filtered features, 372 ‘LBP’-filtered features, 186 ‘LoG’-filtered features, and 93 features each for ‘exponential’, ‘gradient’, ‘logarithm’, ‘square’, and ‘square root’ filters.
